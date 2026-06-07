@@ -1,5 +1,13 @@
 # NYCU Computer Vision 2026 Final Project
 
+**Group: 9**
+
+**Members:**
+- 蔡尚融 112550201
+- 鄭武千 112550200
+- 江品寬 112550127
+- 游翔宇 112550103
+
 ## Introduction
 
 This repository contains my final project solution for NYCU Computer Vision
