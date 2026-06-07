@@ -1,8 +1,5 @@
 # NYCU Computer Vision 2026 Final Project
 
-- **Student ID:** 112550200
-- **Name:** Zheng Wu Qian
-
 ## Introduction
 
 This repository contains my final project solution for NYCU Computer Vision
