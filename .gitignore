@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/
+output/
+vendor/
+kaggle_deps/
+
+*.zip
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.db
+
+.DS_Store
